@@ -1,0 +1,4 @@
+displayName: digitalCircle
+description: Securely injects the DigitalCircle tag script into your container.
+categories:
+  - Analytics
