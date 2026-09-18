@@ -1,5 +1,5 @@
 homepage: "https://digitalcircle.ipartner.company"
 documentation: "https://github.com/ipartner-sk/digitalCircle-google-tag-manager-template"
 versions:
-  - sha: "REPLACE_WITH_FULL_40_CHARACTER_COMMIT_SHA"
+  - sha: "21d1e7f16d49db0c578cc415b1e124bbd1550643"
     changeNotes: "Initial release"
