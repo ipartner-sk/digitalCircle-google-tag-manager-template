@@ -1,4 +1,5 @@
-displayName: digitalCircle
-description: Securely injects the DigitalCircle tag script into your container.
-categories:
-  - Analytics
+homepage: "https://digitalcircle.ipartner.company"
+documentation: "https://github.com/ipartner-sk/digitalCircle-google-tag-manager-template"
+versions:
+  - sha: "REPLACE_WITH_FULL_40_CHARACTER_COMMIT_SHA"
+    changeNotes: "Initial release"
